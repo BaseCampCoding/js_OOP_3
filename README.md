@@ -1,4 +1,4 @@
-# Module 2 OOP Exercise 3
+# OOP Exercise 3
 
 There is a test suite to guide you and help you check yourself. To run the test suite, just view `SpecRunner.html` in your browser. I suggest using live server so that your tests rerun when you save you file.
 
